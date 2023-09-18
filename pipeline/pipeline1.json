@@ -40,6 +40,10 @@
 						"type": "TabularTranslator",
 						"mappings": [
 							{
+								"source": {
+									"name": "Year",
+									"type": "DateTime"
+								},
 								"sink": {
 									"path": "$['Column_1']"
 								}
