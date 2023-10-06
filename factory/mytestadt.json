@@ -1,0 +1,9 @@
+{
+	"name": "mytestadt",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6987db9d-9c79-42a1-be58-9ff6b637633c",
+		"tenantId": "d52c9ea1-7c21-47b1-82a3-33a74b1f74b8"
+	}
+}
